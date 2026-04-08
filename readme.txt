@@ -1,0 +1,1 @@
+u need to run app.py before opening brand.html for hosting use render
